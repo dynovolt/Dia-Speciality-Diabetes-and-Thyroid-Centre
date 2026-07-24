@@ -1,0 +1,6 @@
+{
+  "name": "Dia Speciality Diabetes and Thyroid Centre",
+  "description": "Comprehensive diabetes, thyroid, and metabolic healthcare clinic in Kasturi Nagar, Bengaluru led by Dr. Sridhar K.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
